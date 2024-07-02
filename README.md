@@ -3,7 +3,8 @@
 ## Overview
 The **Tractography Analysis Toolkit** is a Python program designed to derive statistical measures from white matter tracts obtained via tractography. This program quantifies the morphology and structural characteristics of various white matter tracts, enabling objective comparisons between tracts, such as the left and right *Arcuate Fasciculus* (AF_L and AF_R), or determining differences in curvature due to pathological alterations like tumors.
 
-![Alt text](images/shape_analysis.png)
+![Alt text](images/shape_analysis_image.png)
+![Alt text](images/shape_analysis_image_2.png)
 
 
 ## Objectives
