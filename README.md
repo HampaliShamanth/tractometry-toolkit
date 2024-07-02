@@ -18,6 +18,8 @@ The **Tractography Analysis Toolkit** is a Python program designed to derive sta
 - **Output Format and Labeling**: Output a structured report with the calculated metrics for each tract.
 - **Automated Data Aggregation**: Aggregate experiment results from multiple subjects stored across different directories into a Pandas DataFrame.
 
+![Alt text](images/Results_aggregation.PNG)
+
 ## Installation
 1. **Clone the repository:**
    ```bash
